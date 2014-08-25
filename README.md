@@ -22,4 +22,6 @@ Optional: Edge pan to reveal side menu
 Optional: Pan or tough to close the side menu
 
 Walkthrough of all user stories:
+
+
 ![Alt text](https://github.com/samjau/Mailbox/blob/master/mailbox.gif "walkthrough")
